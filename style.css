@@ -5,6 +5,7 @@ body
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 5px;
   font-size: 1.8rem;
+  
 }
 .calculator
 {
@@ -26,6 +27,7 @@ body
   transition: all .2s ease-in-out;
   width:430px;
   text-align: right;
+  font-size: 2.5rem;
 }
 .input:hover {
   background-color: white;

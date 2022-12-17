@@ -4,6 +4,7 @@ Array.from(nums).forEach((num) => {
     num.addEventListener("click", (e)=>{
         if (e.target.innerHTML == "=")
         {
+            console.log(eval(string));
             string = eval(string);
             document.querySelector("input").value = string;
         }
