@@ -24,6 +24,8 @@ body
   padding-top: 10px;
   margin-right: 6px;
   transition: all .2s ease-in-out;
+  width:430px;
+  text-align: right;
 }
 .input:hover {
   background-color: white;
